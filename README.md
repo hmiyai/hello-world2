@@ -1,5 +1,7 @@
 # hello-world2
 
+変更しました。20200827
+
 追加一文
 =======
 追加テキスト　by ymatsunami
